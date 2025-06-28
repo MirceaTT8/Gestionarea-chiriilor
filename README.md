@@ -56,8 +56,8 @@ npm install
 npm run dev
 ```
 
-Aplicația va porni pe: `http://localhost:3000`
+Aplicația va porni pe: `http://localhost:5173`
 
 ## Accesare Aplicație
 
-Navigați la: **http://localhost:3000**
+Navigați la: **http://localhost:5173**
